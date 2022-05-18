@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @velliturk
-- 👀 I’m interested in programming,visual programming.
-- 🌱 I’m currently learning C,C#,Java and PHP.
+- 👀 I’m interested in web programming and visual programming.
+- 🌱 I’m currently learning C,C#,Java,HTML&CSS and PHP.
 - 📫 How to reach me veturk34@gmail.com
 
 <!---
